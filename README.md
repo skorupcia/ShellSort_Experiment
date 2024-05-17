@@ -1,6 +1,6 @@
 # Shell Sort Experiment
 
-School project to test Shell sort in variety of sequences in C#
+School project to test Shell sort speed in variety of sequences in C#
 
 ## Used Sequences
 
